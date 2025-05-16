@@ -27,3 +27,8 @@ hashes <- lapply(files, function(file) hash_pdf_pixels(file))
 # Getting a full dataframe
 hashed_files <- hashes %>%
   bind_rows()
+     
+# Getting N distinct files
+hashed_files %>%
+  pull(hash) %>%
+  n_distinct()
