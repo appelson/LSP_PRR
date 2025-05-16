@@ -1,2 +1,8 @@
-# LSP_PRR
-Git for maintaining and analyzing Louisiana State Police public records. 
+# Louisiana State Police Public Records
+
+## Timeline
+
+On March 19th, 2025, the ACLU of Louisiana submitted 5 public records requests to the Louisiana state police, seeking data and reports on Taser use, police misconduct, use of force, traffic stops, and record storage. 
+
+- *May 16th, 2025*: Received 68 PDF's of sustained misconduct allegations.
+
